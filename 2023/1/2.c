@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <limits.h>
 
 #define LEN 1024
 static char BUF[LEN];
